@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🚩 I’m currently an employee of @TelkomIndonesia
+- 👨‍👩‍👧 I’m a husband, and father of one adorable daughter
+- 🌱 I’m currently learning basic data structures and algorithms
+- 🏫 I have BSc. and MSc. in Electrical Engineering
+- 🤟 I have a big interest in Cyber Security & Data Science field
+
+Feel Free to contact me !!
