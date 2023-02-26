@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning basic data structures and algorithms
 - 🏫 I have BSc. and MSc. in Electrical Engineering
 - 🤟 I have a big interest in Cyber Security & Data Science field
+- 💨 I'm pursuing EJPT, PNPT, & OSCP this year !
 
 Feel Free to contact me !!
