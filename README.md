@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚩 I’m currently an employee of @TelkomIndonesia
+- 🚩 I’m currently a Data Scientist @TelkomIndonesia
 - 👨‍👩‍👧 I’m a husband, and father of one adorable daughter
 - 🌱 I’m currently learning basic data structures and algorithms
 - 🏫 I have BSc. and MSc. in Electrical Engineering
 - 🤟 I have a big interest in Cyber Security & Data Science field
-- 💨 I'm pursuing EJPT, PNPT, & OSCP this year !
+- 💨 I'm pursuing EJPT, PNPT, & OSCP this year, Wish me Luck
 
 Feel Free to contact me !!
