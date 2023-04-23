@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🚩 I’m currently a Data Scientist @TelkomIndonesia
-- 👨‍👩‍👧 I’m a husband, and father of one adorable daughter
-- 🌱 I’m currently learning basic data structures and algorithms
-- 🏫 I have BSc. and MSc. in Electrical Engineering
+- 👨‍👩‍👧 I’m a full time husband, and father of one adorable daughter
+- 🌱 I’m currently learning basic data structures and algorithms on Hackerrank & Kattis
+- 🏫 I have BSc. and MSc. in Electrical Engineering, Dreaming to get PhD someday
 - 🤟 I have a big interest in Cyber Security & Data Science field
-- 💨 I'm pursuing EJPT, PNPT, & OSCP this year, Wish me Luck
+- 💨 I'm pursuing EJPT, PNPT, EWPT, and EWPTX this year, Wish me Luck
+- 👨🏻‍🏫 I'm a part time teacher on weekend, Teaching basic STEM
 
 Feel Free to contact me !!
