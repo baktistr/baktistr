@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🚩 I’m currently a Data Scientist @TelkomIndonesia
 - 👨‍👩‍👧 I’m a full-time husband and father of one adorable daughter
 - 🌱 I’m currently learning basic data structures and algorithms on **Leetcode** (main), Hackerrank & Kattis
-- 🏫 I have BSc. and MSc. in Electrical Engineering, Dreaming of get PhD someday
+- 🏫 I have a BSc. and MSc. in Electrical Engineering, Dream of get PhD someday, and Currently applying MBA in the top 10 US Universities
 - 🤟 I have a significant interest in Cyber Security & Data Science field
 - 💨 I'm pursuing EJPT, PNPT, EWPT, and EWPTX this year, Wish me Luck
 - 👨🏻‍🏫 I'm a part-time teacher on the weekend, Teaching basic STEM
