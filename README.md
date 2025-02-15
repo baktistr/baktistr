@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚩 I’m currently a Data Scientist @TelkomIndonesia
+- 🚩 I’m currently a Cybersecurity Engineer @TelkomIndonesia
 - 👨‍👩‍👧 I’m a full-time husband and father of one adorable daughter
 - 🌱 I’m currently learning basic data structures and algorithms on **Leetcode** (main), Hackerrank & Kattis
-- 🏫 I have a BSc. and MSc. in Electrical Engineering, Dream of get PhD someday, and Currently applying MBA in the top 10 US Universities
-- 🤟 I have a significant interest in Cyber Security & Data Science field
-- 💨 I'm pursuing EJPT, PNPT, EWPT, and EWPTX this year, Wish me Luck
-- 👨🏻‍🏫 I'm a part-time teacher on the weekend, Teaching basic STEM
+- 🏫 I have a BSc. and MSc. in Electrical Engineering, Dream of get PhD someday, and Currently applying MBA/MS in Computer Science in the top 10 US Universities
+- 🤟 I have a significant interest in Data Privacy, Cyber Security & AI
+- 💨 I'm pursuing EJPT, PNPT, & OSCP this year, Wish me Luck
+- 👨🏻‍🏫 I'm a part-time content creator on the weekend, making videos about Cybersecurity
 
 Feel Free to contact me !!
 
