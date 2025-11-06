@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚩 I’m currently a Cybersecurity Engineer @TelkomIndonesia
+- 🏫 I'm currently studying Master's of Privacy Engineering @CMU
+- 🚩 I’m a Cybersecurity Engineer @TelkomIndonesia
 - 👨‍👩‍👧 I’m a full-time husband and father of one adorable daughter
 - 🌱 I’m currently learning basic data structures and algorithms on **Leetcode** (main), Hackerrank & Kattis
-- 🏫 I have a BSc. and MSc. in Electrical Engineering, Dream of get PhD someday, and Currently applying MBA/MS in Computer Science in the top 10 US Universities
+- 🏫 I have a BSc. and MSc. in Electrical Engineering
 - 🤟 I have a significant interest in Data Privacy, Cyber Security & AI
-- 💨 I'm pursuing EJPT, PNPT, & OSCP this year, Wish me Luck
-- 👨🏻‍🏫 I'm a part-time content creator on the weekend, making videos about Cybersecurity
+- 💨 I'm pursuing HTB CPTS, & Offsec OSCP this year, Wish me Luck
+- 👨🏻‍🏫 I'm a part-time content creator on the weekend, making videos about Cybersecurity (soon)
 
 Feel Free to contact me !!
 
