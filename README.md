@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🏫 Master’s student in Privacy Engineering @ CMU
-- 🚩 Cybersecurity Engineer @ Telkom Indonesia (on study break) — seeking a Summer internship in Cybersecurity, Data Privacy, or AI Security
+- 🏫 Master’s student in Privacy Engineering @ Carnegie Mellon University
+- 🚩 Cybersecurity Engineer @ Telkom Indonesia (on study break) — seeking a Summer internship in Cybersecurity
 - 🎓 BSc & MSc in Electrical Engineering
 - 🤟 Strong interests: Data Privacy, Cybersecurity, and AI
 - 💨 Currently pursuing HTB CPTS & OffSec OSCP this year
