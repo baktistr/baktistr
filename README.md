@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🏫 I'm currently studying Master's of Privacy Engineering @CMU
-- 🚩 I’m a Cybersecurity Engineer @TelkomIndonesia
-- 🏫 I have a BSc. and MSc. in Electrical Engineering
-- 🤟 I have a significant interest in Data Privacy, Cyber Security & AI
-- 💨 I'm pursuing HTB CPTS, & Offsec OSCP this year, Wish me Luck
+- 🏫 Master’s student in Privacy Engineering @ CMU
+- 🚩 Cybersecurity Engineer @ Telkom Indonesia (on study break) — seeking a Summer internship in Cybersecurity, Data Privacy, or AI Security
+- 🎓 BSc & MSc in Electrical Engineering
+- 🤟 Strong interests: Data Privacy, Cybersecurity, and AI
+- 💨 Currently pursuing HTB CPTS & OffSec OSCP this year
 
 Feel Free to contact me !!
 
